@@ -25,6 +25,12 @@ My Java learning repository.
 - git push
 - Git identity setting
 
+#### Git Workflow
+
+- Branch
+- Merge
+- Pull Request
+
 #### Documentation
 
 - Markdown
