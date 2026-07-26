@@ -36,3 +36,7 @@ This repository documents my Java learning journey and Git practice.
 
 - Markdown
 - README.md
+
+## Notes
+
+Day 5 Git practice
