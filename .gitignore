@@ -4,6 +4,7 @@
 # Build directories
 bin/
 target/
+out/
 
 # VS Code settings
 .vscode/
