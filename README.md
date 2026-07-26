@@ -17,6 +17,14 @@ This repository documents my Java learning journey and Git practice.
 - Java Basics
 - Object-Oriented Programming (OOP)
 
+#### Java Project Structure
+
+- Package organization
+- Java source directory (`src`)
+- Compile Java source files
+- Generate `.class` files
+- Run Java applications
+
 #### Git & GitHub
 
 - Local Repository
