@@ -1,6 +1,6 @@
 # Java Practice
 
-My Java learning repository.
+This repository documents my Java learning journey and Git practice.
 
 ## Environment
 
@@ -14,18 +14,19 @@ My Java learning repository.
 
 #### Java
 
-- Java basics
-- Object Oriented Programming
+- Java Basics
+- Object-Oriented Programming (OOP)
 
 #### Git & GitHub
 
-- Local repository
-- Commit management
-- GitHub remote
+- Local Repository
+- Commit Management
+- GitHub Remote Repository
 - git push
-- Git identity setting
+- Git Identity Configuration
+- Git Workflow
 
-#### Git Workflow
+#### Collaboration
 
 - Branch
 - Merge
