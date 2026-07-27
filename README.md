@@ -45,6 +45,18 @@ This repository documents my Java learning journey and Git practice.
 - Markdown
 - README.md
 
+## Java Web / Servlet
+
+- Maven Web Application
+- Jakarta Servlet API
+- HelloServlet
+- Tomcat Deployment
+- Servlet browser access test
+
+See:
+
+- [servlet-practice](https://github.com/yt-tsai/servlet-practice)
+
 ## Notes
 
-Day 5 Git practice
+This repository records my Java learning process, Git practice, and transition toward Java Web development.
