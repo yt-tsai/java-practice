@@ -1,6 +1,6 @@
 # Java Practice
 
-This repository documents my Java learning journey and Git practice.
+This repository documents my Java fundamentals learning journey, programming exercises, and Git practice.
 
 ## Environment
 
@@ -10,48 +10,69 @@ This repository documents my Java learning journey and Git practice.
 
 ## Learning Progress
 
-### July 2026
+### Java Fundamentals
 
-#### Java
-
-- Java Basics
+- Variables and Data Types
+- Control Flow
+  - if / else
+  - for Loop
+  - while Loop
+- Methods
 - Object-Oriented Programming (OOP)
+  - Class
+  - Object
+  - Constructor
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Interface
+- Exception Handling
+- Collections
 
-#### Java Project Structure
+## Project Structure
 
-- Package organization
-- Java source directory (`src`)
-- Compile Java source files
-- Generate `.class` files
-- Run Java applications
+```text
+src
+├── p01_basics
+│   └── Hello.java
+│
+├── p02_control_flow
+│   ├── IfExample.java
+│   ├── ForLoop.java
+│   └── WhileLoop.java
+│
+└── p03_methods
+    ├── Calculator.java
+    └── Main.java
+```
 
-#### Git & GitHub
+## Git & GitHub Practice
 
 - Local Repository
 - Commit Management
 - GitHub Remote Repository
 - git push
-- Git Identity Configuration
 - Git Workflow
-
-#### Collaboration
-
 - Branch
 - Merge
 - Pull Request
 
-#### Documentation
+## Documentation
 
 - Markdown
 - README.md
+- Project Documentation
 
-## Java Web / Servlet
+## Related Projects
+
+### Java Web Development
+
+Servlet and JSP learning project:
 
 - Maven Web Application
 - Jakarta Servlet API
-- HelloServlet
 - Tomcat Deployment
-- Servlet browser access test
+- MVC Pattern
 
 See:
 
@@ -59,4 +80,4 @@ See:
 
 ## Notes
 
-This repository records my Java learning process, Git practice, and transition toward Java Web development.
+This repository records my Java learning process and transition toward Java backend development.
