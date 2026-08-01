@@ -1,4 +1,4 @@
-package chapter02;
+package p03_methods;
 
 public class Calculator {
 
