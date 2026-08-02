@@ -22,12 +22,16 @@ This repository documents my Java fundamentals learning journey, programming exe
   - Class
   - Object
   - Constructor
-  - Encapsulation
-  - Inheritance
-  - Polymorphism
-  - Interface
+  - Constructor Overloading
+  - Encapsulation (Learning)
+  - Inheritance (Learning)
+  - Polymorphism (Learning)
+  - Interface (Learning)
 - Exception Handling
 - Collections
+  - ArrayList
+  - HashMap
+  - Iterator
 
 ## Project Structure
 
@@ -41,9 +45,14 @@ src
 │   ├── ForLoop.java
 │   └── WhileLoop.java
 │
-└── p03_methods
-    ├── Calculator.java
-    └── Main.java
+├── p03_methods
+│   ├── Calculator.java
+│   └── Main.java
+│   
+└── p04_object_oriented_programming
+    ├── ConstructorExample.java
+    ├── Main.java
+    └── Person.java
 ```
 
 ## Git & GitHub Practice
@@ -80,4 +89,4 @@ See:
 
 ## Notes
 
-This repository records my Java learning process and transition toward Java backend development.
+This repository records my Java fundamentals learning process and serves as a foundation for Java backend development.
