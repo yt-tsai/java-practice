@@ -23,7 +23,7 @@ This repository documents my Java fundamentals learning journey, programming exe
   - Object
   - Constructor
   - Constructor Overloading
-  - Encapsulation (Learning)
+  - Encapsulation
   - Inheritance (Learning)
   - Polymorphism (Learning)
   - Interface (Learning)
@@ -49,8 +49,13 @@ src
 │   ├── Calculator.java
 │   └── Main.java
 │   
-└── p04_object_oriented_programming
-    ├── ConstructorExample.java
+├── p04_object_oriented_programming
+│   ├── ConstructorExample.java
+│   ├── Main.java
+│   └── Person.java
+│   
+└── p05_encapsulation
+    ├── GetterSetterExample.java
     ├── Main.java
     └── Person.java
 ```
