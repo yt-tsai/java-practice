@@ -24,7 +24,7 @@ This repository documents my Java fundamentals learning journey, programming exe
   - Constructor
   - Constructor Overloading
   - Encapsulation
-  - Inheritance (Learning)
+  - Inheritance
   - Polymorphism (Learning)
   - Interface (Learning)
 - Exception Handling
@@ -54,10 +54,14 @@ src
 │   ├── Main.java
 │   └── Person.java
 │   
-└── p05_encapsulation
-    ├── GetterSetterExample.java
+├── p05_encapsulation
+│   ├── Main.java
+│   └── Person.java
+│
+└── p06_inheritance
     ├── Main.java
-    └── Person.java
+    ├── Person.java
+    └── Student.java
 ```
 
 ## Git & GitHub Practice
