@@ -25,7 +25,7 @@ This repository documents my Java fundamentals learning journey, programming exe
   - Constructor Overloading
   - Encapsulation
   - Inheritance
-  - Polymorphism (Learning)
+  - Polymorphism
   - Interface (Learning)
 - Exception Handling
 - Collections
@@ -58,10 +58,17 @@ src
 │   ├── Main.java
 │   └── Person.java
 │
-└── p06_inheritance
-    ├── Main.java
-    ├── Person.java
-    └── Student.java
+├── p06_inheritance
+│   ├── Main.java
+│   ├── Person.java
+│   └── Student.java
+│
+└── p07_polymorphism
+    ├── Animal.java
+    ├── Cat.java
+    ├── Cow.java
+    ├── Dog.java
+    └── Main.java
 ```
 
 ## Git & GitHub Practice
