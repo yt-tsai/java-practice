@@ -26,7 +26,7 @@ This repository documents my Java fundamentals learning journey, programming exe
   - Encapsulation
   - Inheritance
   - Polymorphism
-  - Interface (Learning)
+  - Interface
 - Exception Handling
 - Collections
   - ArrayList
@@ -63,11 +63,19 @@ src
 │   ├── Person.java
 │   └── Student.java
 │
-└── p07_polymorphism
+├── p07_polymorphism
+│   ├── Animal.java
+│   ├── Cat.java
+│   ├── Cow.java
+│   ├── Dog.java
+│   └── Main.java
+│
+└── p08_interface
     ├── Animal.java
     ├── Cat.java
-    ├── Cow.java
     ├── Dog.java
+    ├── Duck.java
+    ├── Flyable.java
     └── Main.java
 ```
 
