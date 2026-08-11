@@ -78,11 +78,17 @@ src
 │   ├── Flyable.java
 │   └── Main.java
 │
-└── p09_exception_handling
-    ├── AgeValidationExample.java
-    ├── ArrayExceptionExample.java
-    ├── CheckedExceptionExample.java
-    ├── DivisionExample.java
+├── p09_exception_handling
+│   ├── AgeValidationExample.java
+│   ├── ArrayExceptionExample.java
+│   ├── CheckedExceptionExample.java
+│   ├── DivisionExample.java
+│   └── Main.java
+│
+└── p10_collections
+    ├── ArrayListExample.java
+    ├── HashMapExample.java
+    ├── IteratorExample.java
     └── Main.java
 ```
 
