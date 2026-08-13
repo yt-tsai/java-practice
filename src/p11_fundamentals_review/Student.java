@@ -1,21 +1,23 @@
 package p11_fundamentals_review;
 
-public class Student {
+public class Student extends Person implements Workable {
 
-    private String name;
     private String course;
 
+    // constructor
     public Student(String name, String course) {
-        this.name = name;
+        super(name);
         this.course = course;
     }
 
+    @Override
     public void introduce() {
         System.out.println("Hi, I am " + getName() + ". I am learning " + getCourse() + ".");
     }
 
-    public String getName() {
-        return name;
+    @Override
+    public void work() {
+        System.out.println(getName() + " is studying " + getCourse() + ".");
     }
 
     public String getCourse() {
