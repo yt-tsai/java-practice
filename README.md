@@ -32,6 +32,9 @@ This repository documents my Java fundamentals learning journey, programming exe
   - ArrayList
   - HashMap
   - Iterator
+- Java Fundamentals Review
+  - OOP Integration
+  - Collections Integration
 
 ## Project Structure
 
@@ -93,7 +96,10 @@ src
 │
 └── p11_fundamentals_review
     ├── Main.java
-    └── Student.java
+    ├── Person.java
+    ├── Student.java
+    ├── Teacher.java
+    └── Workable.java
 ```
 
 ## Git & GitHub Practice
